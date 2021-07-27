@@ -20,8 +20,7 @@ SIDER
 
 <br>
 Reference: <br>
-[1].<br>
-   @article{Miha2019Shapebased,<br>
+[1]. @article{Miha2019Shapebased,<br>
       author = {Skalic, Miha and Jim\'{e}nez, Jos\'{e} and Sabbadin, Davide and Fabritiis, Gianni De},<br>
       title = {Shape-Based Generative Modeling for de Novo Drug Design},<br>
       journal = {Journal of Chemical Information and Modeling},<br>
